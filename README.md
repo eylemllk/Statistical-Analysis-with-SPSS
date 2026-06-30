@@ -1,1 +1,3 @@
+## Summary
+
 Statistical analysis of social media usage purposes and mobile phone addiction conducted using IBM SPSS. The project applies descriptive statistics, Independent Samples t-Test, and One-Way ANOVA to evaluate demographic differences and interpret the results.
